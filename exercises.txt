@@ -1,0 +1,123 @@
+1 Write a program that outputs "Hello World!" to the console.
+
+2 Write a program that calculates the area of a circle given its radius.
+
+3 Write a program that prints the first n Fibonacci numbers.
+
+4 Write a function that takes two numbers as arguments and returns the largest of the two.
+
+5 Write a program that finds the average of an array of numbers.
+
+7 Write a function that takes a string as an argument and returns the reverse of the string.
+
+8 Write a program that determines if a given year is a leap year.
+
+9 Write a function that takes two arrays and returns a new array that contains all the elements from both arrays.
+
+10 Write a program that calculates the factorial of a number.
+
+11 Write a function that takes an array of numbers and returns the second largest number.
+
+12 Write a program that converts a temperature from Fahrenheit to Celsius.
+
+13 Write a function that takes an array of strings and returns the longest string.
+
+14 Write a program that generates random numbers within a given range.
+
+15 Write a function that takes a number and returns the sum of its digits.
+
+16 Write a program that calculates the power of a number.
+
+17 Write a function that takes an array of numbers and returns the median.
+
+18 Write a program that calculates the standard deviation of an array of numbers.
+
+19 Write a function that takes an array of numbers and returns the mode.
+
+20 Write a program that calculates the median of an array of numbers without sorting the array.
+
+21 Write a function that takes an array of numbers and returns the range.
+
+22 Write a program that generates a random password of a given length.
+
+23 Write a function that takes an array of strings and returns the frequency of each string.
+
+24 Write a program that generates all permutations of a string.
+
+25 Write a function that takes a string and returns all its possible substrings.
+
+26 Write a program that calculates the dot product of two arrays.
+
+27 Write a function that takes an array of numbers and returns the running total.
+
+28 Write a program that finds the longest common substring of two strings.
+
+29 Write a function that takes a string and returns its longest palindrome.
+
+30 Write a program that finds the shortest path in a graph.
+
+31 Write a program that calculates the area of a rectangle given its length and width.
+
+32 Write a function that takes an array of numbers and returns the sum of all numbers.
+
+33 Write a program that finds the largest number in an array.
+
+34 Write a function that takes a string and returns the number of words in it.
+
+35 Write a program that calculates the factorial of a number using a for loop.
+
+36 Write a function that takes a string and returns the number of characters in it.
+
+37 Write a program that generates the multiplication table for a given number.
+
+38 Write a function that takes two strings and returns true if they are anagrams, false otherwise.
+
+39 Write a program that finds the sum of all positive integers less than 1000 that are divisible by 3 or 5.
+
+40 Write a function that takes a string and returns true if it is a palindrome, false otherwise.
+
+41 Write a program that calculates the perimeter of a triangle given its three sides.
+
+42 Write a function that takes an array of numbers and returns the product of all numbers.
+
+43 Write a program that generates all possible combinations of a given string.
+
+44 Write a function that takes a string and returns the number of times a given letter appears in it.
+
+45 Write a program that calculates the roots of a quadratic equation given its coefficients.
+
+46 Write a function that takes a string and returns the first letter of each word in it.
+
+47 Write a program that generates all prime numbers up to a given number.
+
+48 Write a function that takes a string and returns the longest word in it.
+
+49 Write a program that calculates the sum of all even Fibonacci numbers up to a given number.
+
+50 Write a function that takes an array of numbers and returns the average of all numbers.
+
+51 Write a function that takes a string and returns the number of vowels in it.
+
+52 Write a program that implements a stack using an array.
+
+53 Write a function that takes an array of numbers and returns the closest pair of numbers.
+
+54 Write a program that implements a queue using an array.
+
+55 Write a function that takes an array of numbers and returns the sum of all prime numbers.
+
+56 Write a program that implements a binary search algorithm.
+
+57 Write a function that takes an array of numbers and returns the sum of all odd numbers.
+
+58 Write a program that implements a quick sort algorithm.
+
+59 Write a function that takes an array of numbers and returns the sum of all even numbers.
+
+60 Write a program that implements a merge sort algorithm.
+
+61 Write a function that takes an array of numbers and returns the sum of all numbers that are divisible by a given number.
+
+62 Write a program that calculates the greatest common divisor of two numbers.
+
+63 Write a function that takes an array of numbers and returns
