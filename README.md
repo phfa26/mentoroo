@@ -2,6 +2,7 @@
 
 
  - **Clone this repo**
+ - Create a branch with your name and commit all of your changes there
  - For each exercise from exercises.js create a folder with the exercise number: eg 1 or exercise-1*
 	- *Doesn't matter which pattern you use, as long as you stick to it.
 - In each exercise folder create a index.js file and copy the exercise task as a multi line comment at the top of the file.
