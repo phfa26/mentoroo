@@ -12,3 +12,5 @@ console.log(reverseString("Eusouolucas"));
 //  const joinArr = str.split("").reverse().join("");
 //  return joinArr;
 //}
+
+// oh yes, you are right! it would be much easier using the chain metodo. 
