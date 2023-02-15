@@ -6,3 +6,7 @@ const found = fibonacci.find(function (element) {
   return element;
 });
 console.log(found);
+
+//Ok, we can make it harder further down the track
+
+//TIP: Do not overcomplicate stuff, array.find() is not meant to be used this way. ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
