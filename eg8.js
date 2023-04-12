@@ -1,4 +1,4 @@
-That one was my fisrt idea, so I tried to create a logic to let me know if the typed year was leap. The Years and Days I typed straight away on the console.
+//That one was my fisrt idea, so I tried to create a logic to let me know if the typed year was leap. The Years and Days I typed straight away on the console.
 
 var normalYear = 365;
 
@@ -15,7 +15,7 @@ function leapYear(year) {
   }
 }
 
-Then, I spoke with bia and she helped me in a easy way.
+//Then, I spoke with bia and she helped me in a easy way.
 
 function leapyear(year)
 {
